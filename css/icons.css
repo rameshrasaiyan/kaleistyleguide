@@ -1,0 +1,170 @@
+/* 
+## These icons sprites has been created using glue.  
+Website: https://glue.readthedocs.org/en/latest/  
+glue: 0.3 hash: b40cb26963  
+*/
+
+.sprite-icons-remote_voice,
+.sprite-icons-calling_card,
+.sprite-icons-role_change,
+.sprite-icons-audio_conference,
+.sprite-icons-mobile_access,
+.sprite-icons-employees,
+.sprite-icons-assets,
+.sprite-icons-webex_meeting,
+.sprite-icons-warning,
+.sprite-icons-server,
+.sprite-icons-groups,
+.sprite-icons-personal_fax,
+.sprite-icons-provisioning,
+.sprite-icons-secure_remote_access,
+.sprite-icons-security_device,
+.sprite-icons-database,
+.sprite-icons-file_share,
+.sprite-icons-templates,
+.sprite-icons-wireless,
+.sprite-icons-bt_support,
+.sprite-icons-search,
+.sprite-icons-bt_arrow,
+.sprite-icons-checkmark{background-image:url('icons.png');background-repeat:no-repeat}
+.sprite-icons-remote_voice{background-position:0px 0px;width:100px;height:72px;}
+.sprite-icons-calling_card{background-position:0px -72px;width:92px;height:74px;}
+.sprite-icons-role_change{background-position:-100px 0px;width:90px;height:78px;}
+.sprite-icons-audio_conference{background-position:-190px 0px;width:90px;height:71px;}
+.sprite-icons-mobile_access{background-position:0px -146px;width:86px;height:80px;}
+.sprite-icons-employees{background-position:-190px -71px;width:84px;height:75px;}
+.sprite-icons-assets{background-position:-100px -78px;width:82px;height:50px;}
+.sprite-icons-webex_meeting{background-position:-86px -146px;width:81px;height:78px;}
+.sprite-icons-warning{background-position:-167px -146px;width:81px;height:75px;}
+.sprite-icons-server{background-position:-280px 0px;width:80px;height:60px;}
+.sprite-icons-groups{background-position:-280px -60px;width:77px;height:75px;}
+.sprite-icons-personal_fax{background-position:-280px -135px;width:75px;height:75px;}
+.sprite-icons-provisioning{background-position:0px -226px;width:74px;height:72px;}
+.sprite-icons-secure_remote_access{background-position:-74px -226px;width:71px;height:72px;}
+.sprite-icons-security_device{background-position:-145px -226px;width:60px;height:71px;}
+.sprite-icons-database{background-position:-205px -226px;width:66px;height:71px;}
+.sprite-icons-file_share{background-position:-271px -226px;width:70px;height:58px;}
+.sprite-icons-templates{background-position:-360px 0px;width:66px;height:68px;}
+.sprite-icons-wireless{background-position:0px -298px;width:67px;height:64px;}
+.sprite-icons-bt_support{background-position:-360px -68px;width:52px;height:52px;}
+.sprite-icons-search{background-position:-360px -120px;width:41px;height:43px;}
+.sprite-icons-bt_arrow{background-position:-360px -163px;width:35px;height:30px;}
+.sprite-icons-checkmark{background-position:-360px -193px;width:32px;height:30px;}
+
+
+/* 
+## Header Big Icons 
+
+````
+<div class="header-icons">
+	<span class="sprite-icons-employees"></span>
+	<span class="sprite-icons-assets"></span>
+	<span class="sprite-icons-groups"></span>
+	<span class="sprite-icons-warning"></span>
+</div>
+````
+
+## Header Small Icons 
+
+````
+<div class="header-small-icons">
+	<span class="sprite-icons-search"></span>
+	<span class="sprite-icons-bt_support"></span>
+	<span class="sprite-icons-bt_arrow"></span>
+</div>
+````
+
+## Other Icons 
+
+````
+<div class="other-icons">
+	<span class="sprite-icons-templates"></span>
+	<span class="sprite-icons-role_change"></span>
+	<span class="sprite-icons-security_device"></span>
+	<span class="sprite-icons-file_share"></span>
+	<span class="sprite-icons-database"></span>
+	<span class="sprite-icons-wireless"></span>
+	<span class="sprite-icons-webex_meeting"></span>
+	<span class="sprite-icons-server"></span>
+	<span class="sprite-icons-secure_remote_access"></span>
+	<span class="sprite-icons-provisioning"></span>
+	<span class="sprite-icons-wireless"></span>
+	<span class="sprite-icons-audio_conference"></span>
+	<span class="sprite-icons-mobile_access"></span>
+	<span class="sprite-icons-remote_voice"></span>
+	<span class="sprite-icons-calling_card"></span>
+	<span class="sprite-icons-personal_fax"></span>
+</div>
+````
+
+## CSS Code
+
+<pre>
+	<code>
+		.sprite-icons-remote_voice,
+		.sprite-icons-calling_card,
+		.sprite-icons-role_change,
+		.sprite-icons-audio_conference,
+		.sprite-icons-mobile_access,
+		.sprite-icons-employees,
+		.sprite-icons-assets,
+		.sprite-icons-webex_meeting,
+		.sprite-icons-warning,
+		.sprite-icons-server,
+		.sprite-icons-groups,
+		.sprite-icons-personal_fax,
+		.sprite-icons-provisioning,
+		.sprite-icons-secure_remote_access,
+		.sprite-icons-security_device,
+		.sprite-icons-database,
+		.sprite-icons-file_share,
+		.sprite-icons-templates,
+		.sprite-icons-wireless,
+		.sprite-icons-bt_support,
+		.sprite-icons-search,
+		.sprite-icons-bt_arrow,
+		.sprite-icons-checkmark{background-image:url('icons.png');background-repeat:no-repeat}
+		.sprite-icons-remote_voice{background-position:0px 0px;width:100px;height:72px;}
+		.sprite-icons-calling_card{background-position:0px -72px;width:92px;height:74px;}
+		.sprite-icons-role_change{background-position:-100px 0px;width:90px;height:78px;}
+		.sprite-icons-audio_conference{background-position:-190px 0px;width:90px;height:71px;}
+		.sprite-icons-mobile_access{background-position:0px -146px;width:86px;height:80px;}
+		.sprite-icons-employees{background-position:-190px -71px;width:84px;height:75px;}
+		.sprite-icons-assets{background-position:-100px -78px;width:82px;height:50px;}
+		.sprite-icons-webex_meeting{background-position:-86px -146px;width:81px;height:78px;}
+		.sprite-icons-warning{background-position:-167px -146px;width:81px;height:75px;}
+		.sprite-icons-server{background-position:-280px 0px;width:80px;height:60px;}
+		.sprite-icons-groups{background-position:-280px -60px;width:77px;height:75px;}
+		.sprite-icons-personal_fax{background-position:-280px -135px;width:75px;height:75px;}
+		.sprite-icons-provisioning{background-position:0px -226px;width:74px;height:72px;}
+		.sprite-icons-secure_remote_access{background-position:-74px -226px;width:71px;height:72px;}
+		.sprite-icons-security_device{background-position:-145px -226px;width:60px;height:71px;}
+		.sprite-icons-database{background-position:-205px -226px;width:66px;height:71px;}
+		.sprite-icons-file_share{background-position:-271px -226px;width:70px;height:58px;}
+		.sprite-icons-templates{background-position:-360px 0px;width:66px;height:68px;}
+		.sprite-icons-wireless{background-position:0px -298px;width:67px;height:64px;}
+		.sprite-icons-bt_support{background-position:-360px -68px;width:52px;height:52px;}
+		.sprite-icons-search{background-position:-360px -120px;width:41px;height:43px;}
+		.sprite-icons-bt_arrow{background-position:-360px -163px;width:35px;height:30px;}
+		.sprite-icons-checkmark{background-position:-360px -193px;width:32px;height:30px;}
+	</code>
+</pre>
+
+*/
+
+.header-icons {
+	background: #9dbfe9;
+	}
+.header-icons span,
+.header-small-icons span,
+.other-icons span {
+	display: inline-block;
+	margin: 15px;
+	}
+.header-small-icons {
+
+	}
+
+.sprite-icons-search {
+	background-color: #9dbfe9;
+	}
